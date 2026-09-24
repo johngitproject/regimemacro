@@ -1,0 +1,39 @@
+# Fichiers reconstruits par scripts — ne pas committer de donnees restreintes
+# (voir donnees/regime/LICENCES.md : code + methode + agregats publies,
+#  bruts Yahoo/Investing-NT8 retelecharges, jamais redistribues)
+
+# Snapshots tiers restreints (CGU d'origine)
+donnees/regime/sources/fred-us-macro-history.json
+donnees/regime/sources/investing-us-macro-consensus.json
+donnees/regime/sources/market_pricing_daily.csv
+donnees/regime/sources/yahoo_index_daily.csv
+
+# Derive du consensus Investing (lignes previous/forecast) + chaine derivee
+donnees/regime/calendar_macro_2022_2026.csv
+donnees/regime/fed_stance.csv
+donnees/regime/fed_thresholds.csv
+donnees/regime/fed_dots.csv
+donnees/regime/fomc_guidance.csv
+donnees/regime/index_daily.csv
+donnees/regime/index_daily_nt8_only.csv
+donnees/regime/stance_index_fwd.csv
+donnees/regime/pre_drift_20j.csv
+donnees/regime/pre_drift_change.csv
+donnees/regime/conditional_regime.csv
+donnees/regime/*_regime.csv
+
+# Donnees personnelles : exports NinjaTrader + backtests de strategies
+donnees/market/
+backtest_out/
+donnees/backtest*/
+donnees/journalier/
+donnees/paper/
+donnees/recap/
+donnees/cours/
+
+# Environnement, caches, OS
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

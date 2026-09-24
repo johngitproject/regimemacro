@@ -1,0 +1,11 @@
+date_et,event_type,ref_month,consensus_mom,actual_mom,consensus_source,actual_source
+2025-01-15 08:30,CPI,2024-12,0.3,0.4,Econoday survey via CME Group; FactSet consensus via Morningstar,BLS USDL-25-0021
+2025-02-12 08:30,CPI,2025-01,0.3,0.5,Dow Jones via CNBC 2025-02-12; FactSet via Morningstar,BLS USDL-25-0174
+2025-03-12 08:30,CPI,2025-02,0.3,0.2,Dow Jones via CNBC 2025-03-12; FactSet via Morningstar,BLS USDL-25-0332
+2025-04-10 08:30,CPI,2025-03,0.1,-0.1,Consensus via First Trust 2025-04-10,BLS USDL-25-0459
+2025-05-13 08:30,CPI,2025-04,0.2,0.2,WSJ poll via WSJ 2025-05-13; Dow Jones via CNBC 2025-05-13,BLS USDL-25-0786
+2025-06-11 08:30,CPI,2025-05,0.2,0.1,FactSet consensus via Morningstar 2025-06-10,BLS USDL-25-0955
+2025-07-15 08:30,CPI,2025-06,0.3,0.3,FactSet 0.23% via Morningstar 2025-07-15; Comerica/Bloomberg at consensus,BLS USDL-25-1148
+2025-08-12 08:30,CPI,2025-07,0.2,0.2,FactSet consensus via Morningstar 2025-08-07,BLS July 2025 release
+2025-09-11 08:30,CPI,2025-08,0.3,0.4,FactSet consensus via Morningstar 2025-09-09,BLS USDL-25-1356
+2025-10-24 08:30,CPI,2025-09,0.4,0.3,Bloomberg median via MNI preview; Reuters poll 0.4%,BLS USDL-25-1502
